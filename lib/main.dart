@@ -1,3 +1,4 @@
+import 'package:exemplo_dialog_passos/controle_dialog.dart';
 import 'package:exemplo_dialog_passos/home.dart';
 import 'package:flutter/material.dart';
 
